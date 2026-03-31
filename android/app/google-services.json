@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "68080006856",
+    "firebase_url": "https://ai-image-b30e6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ai-image-b30e6",
+    "storage_bucket": "ai-image-b30e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68080006856:android:323034e1e53ce7f96257fd",
+        "android_client_info": {
+          "package_name": "luma.ai.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2gGrUenK0pP9ceqAIGHpoi92rkLU8RwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
