@@ -1,4 +1,4 @@
-# Luma AI
+# Visionary AI
 
 A new Flutter project.
 
